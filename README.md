@@ -9,7 +9,7 @@ Notepad application built with C++ and Qtcreator. This project demonstrates how 
   ## Screenshot
   - [Notepad UI](Screenshot/NotePad_Ui.png)
   - [Notepad Menu Bar](Screenshot/Notepad_menu_bar.png)
-  - [Notepad QMessage](Screenshot/Notepad_Change_case.png)
+  - [Notepad QMessage](Screenshot/Notepad_QMessage.png)
 
 ## Properties Used
 - QMainWindow – Main application window
