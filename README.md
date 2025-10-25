@@ -7,9 +7,9 @@ Notepad application built with C++ and Qtcreator. This project demonstrates how 
 - Dynamic window title updates to show current file name
 
   ## Screenshot
-  - [Notepad UI](Screenshot/NotePad Ui.png)
-  - [Notepad Menu Bar](Screenshot/Notepad menu bar.png)
-  - [Notepad QMessage](Screenshot/Notepad Change case.png)
+  - [Notepad UI](Screenshot/NotePad_Ui.png)
+  - [Notepad Menu Bar](Screenshot/Notepad_menu_bar.png)
+  - [Notepad QMessage](Screenshot/Notepad_Change_case.png)
 
 ## Properties Used
 - QMainWindow – Main application window
