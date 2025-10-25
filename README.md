@@ -5,7 +5,12 @@ Notepad application built with C++ and Qtcreator. This project demonstrates how 
 - Create, open, save, and save files as new (New, Open, Save, Save As, Exit)
 - Detect unsaved changes and prompt the user to save before closing or opening a file
 - Dynamic window title updates to show current file name
-  
+
+  ## Screenshot
+  [Notepad UI] (NotePad Ui.png)
+  [Notepad Menu Bar] (Notepad menu bar.png)
+  [Notepad QMessage] (Notepad Change case.png)
+
 ## Properties Used
 - QMainWindow – Main application window
 - QTextEdit – Text editing area
