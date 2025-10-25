@@ -31,7 +31,7 @@ void MainWindow::on_actionNew_triggered()
     if(ui->textEdit->document()->isModified() == true)
     {
         QMessageBox::StandardButton reply;
-        reply = QMessageBox::question(this,"Unsaved Changes","Do you want to save change to ?",QMessageBox::Save | QMessageBox::Discard | QMessageBox::Cancel);
+        reply = QMessageBox::question(this,"Unsaved Changes","Do you want to save change?",QMessageBox::Save | QMessageBox::Discard | QMessageBox::Cancel);
         if(reply == QMessageBox::Save)
         {
             saveFile();
